@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Standing up a blog in 5 minutes or less with ChatGPT
+title: Standing Up a Blog in 5 Minutes or Less with ChatGPT
 date: 2026-02-22
 ---
 
-So this something I wanted to get live and start writing right away. 
+I wanted this blog live as fast as possible so I could stop thinking about writing and start writing.
 
-Lately I've wanted to move fast and think about the details later. 
+Lately I've wanted to move fast and think about the details later.
 
-I love to at least get something on the screen regardless of what I'm I'm working on. LLMS make that process quick. I knew I wanted a minimalist blog something with just markdown and images and also didn't want to pay much or anything at all and wanted the hosting to be a breeze. 
+I love getting something on the screen regardless of what I'm working on. LLMs make that process quick. I knew I wanted a minimalist blog with Markdown and images. I also didn't want to pay much, if anything, and I wanted hosting to be a breeze.
 
-ChatGPT first tried pushing me down the Firebase route. Luckily I know enough to know that there was an even faster easier and also free option which was hosting to Github pages. It gave me the project structure for a Jekyll blog. The nice thing is Github pages handles Jekyll blog with out any installations on your end. Once yo u make the repo a Github Pages page it creates a deployment action and pushing code takes care of the rest. The entire setup took 5 minutes. 
+ChatGPT first tried pushing me down the Firebase route. Luckily I knew enough to know there was an even faster, easier, and free option: GitHub Pages. It gave me the project structure for a Jekyll blog. The nice thing is GitHub Pages handles a Jekyll blog without any installation on your end. Once you make the repo a GitHub Pages site, it creates a deployment action and pushing code takes care of the rest. The entire setup took about five minutes.
 
-I'm very happy with my quick win. I can make it pretty and fix layouts and automate a few more things later. Right now I'd just like to say hello world and I'm glad to be writing again even if almost no one will ever read this.
+I'm happy with the quick win. I can make it prettier, fix layouts, and automate a few more things later. Right now I just want to say hello world, and I'm glad to be writing again even if almost no one ever reads this.
 
-What I think my focus will be in this blog is what I'm learning about living with LLM's a software developer and how it has extended my reach, made me faster and also allowed to me venture into other domains beyond just writing code. 
+I think this blog will focus on what I'm learning about living with LLMs as a software developer, and how they've extended my reach, made me faster, and let me venture into domains beyond just writing code.
 
 
 ![Chat GPT image of my blog setup](/assets/images/chatgpt-carircature-yoan-blog.png)

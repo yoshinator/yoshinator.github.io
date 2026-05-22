@@ -1,3 +1,5 @@
-title: "Yoan Ante Blog"
-description: "I have no idea what I'm doing 98% of the time."
+title: "Yoan Ante"
+description: "Software, AI, product experiments, and builder notes from Yoan Ante."
+url: "https://yoanante.com"
 theme: minima
+show_excerpts: true
